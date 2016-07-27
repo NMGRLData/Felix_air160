@@ -1,0 +1,32 @@
+{
+    "H1": {
+        "center_dac": null, 
+        "center_signal": null, 
+        "high_dac": null, 
+        "high_signal": null, 
+        "low_dac": null, 
+        "low_signal": null, 
+        "points": "QHDb4EQrE79AcN2PRDK5B0Bw3z5EAsjcQHDg7kQKHaJAcOKdQ6y6E0Bw5E1DcHX/QHDl/EQkXypAcOerRAsOQEBw6VtDgqEMQHDrCkQ8H5lAcOy6RDmd1kBw7mlEOw7ZQHDwGUQOsKRAcPHIQ2KuCkBw83dEjNrWQHD1J0Ppv+JAcPbWQ+tg6kBw+IZECGyHQHD6NUOxfPZAcPvkQ+4ClkBw/ZRDxMjEQHD/Q0Pw5G1AcQDzRCPu3UBxAqJDi2YxQHEEUUOgUp1AcQYBRBk3okBxB7BEHdrAQHEJYEQ80BVAcQsPQpMxcEBxDL9EQGKbQHEObkPHSk9AcRAdRA8g7kBxEc1EDK9SQHETfEQTxABAcRUsRGMrzkBxFttD01HG"
+    }, 
+    "H2": {
+        "center_dac": 3.7652163927855713, 
+        "center_signal": 1126.8408472782271, 
+        "high_dac": 3.7664175951903807, 
+        "high_signal": 831.2283979657899, 
+        "low_dac": 3.7640151903807619, 
+        "low_signal": 833.83285883803978, 
+        "points": "QHDb4EKTMXBAcN2PQxDhZEBw3z5Dgve+QHDg7kPNXYtAcOKdRA8PGkBw5E1ENgbpQHDl/ERWzQdAcOerRG9+EEBw6VtEgEZyQHDrCkSFupNAcOy6RIknNEBw7mlEivq6QHDwGUSL5gFAcPHIRIxtk0Bw83dEjJ05QHD1J0SM08lAcPbWRIzLwkBw+IZEjNrWQHD6NUSMuStAcPvkRIyoLkBw/ZREjL99QHD/Q0SMpRBAcQDzRIyLLkBxAqJEjIN5QHEEUUSMQzVAcQYBRItft0BxB7BEiKWdQHEJYESDB/BAcQsPRHKWkkBxDL9EVui9QHEObkQda6xAcRAdQ+o1VkBxEc1DoHUZQHETfENQRs9AcRUsQwHhM0BxFttClQh7"
+    }, 
+    "L2(CDD)": {
+        "center_dac": 3.765234428857716, 
+        "center_signal": 1127.647957598055, 
+        "high_dac": 3.7656889378757521, 
+        "high_signal": 829.84115934246165, 
+        "low_dac": 3.7647799198396799, 
+        "low_signal": 832.42404221979859, 
+        "points": "QHDb4EKTMXBAcN2PQpMxcEBw3z5CkzFwQHDg7kKTMXBAcOKdQpOJ90Bw5E1Ck+J/QHDl/EKUv9JAcOerQpuqaEBw6VtCtyiKQHDrCkMBnspAcOy6Q2kHgkBw7mlDwfNaQHDwGUQTVOpAcPHIREa8M0Bw83dEaP6xQHD1J0R8hwJAcPbWRIhHhkBw+IZEi0lSQHD6NUSM2tZAcPvkRIwFnkBw/ZREh0uLQHD/Q0R43ydAcQDzRFJZaUBxAqJEHAC4QHEEUUPOiIdAcQYBQ4Ud0EBxB7BDOWMqQHEJYEMH7odAcQsPQtmRZEBxDL9CwCZWQHEObkKpq9xAcRAdQp2RUUBxEc1CltL+QHETfEKVnSRAcRUsQpQ7BkBxFttClGdK"
+    }, 
+    "fmt": ">ff", 
+    "reference_detector": "H2", 
+    "reference_isotope": "Ar40"
+}
